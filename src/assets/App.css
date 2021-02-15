@@ -1,0 +1,10 @@
+.conteudo{
+    display: flex;  
+}
+:root{
+   --primaria: blue;
+   --secundaria: blue;
+   --secundaria-ativa:white;
+   --fundo:white;
+   --fundo-detalhes:white;     
+}
